@@ -68,6 +68,8 @@
 <summary>
 
 ## 👯 I’m looking to collaborate on ...
-</summary>
+<summary>
+<details>
 MACHINE LEARNING STUFF
 </details>
+</summary>
