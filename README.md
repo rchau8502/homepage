@@ -40,7 +40,6 @@
 ### Tools and Tech that I use
 
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://github.com/microsoft/terminal)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
