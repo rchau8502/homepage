@@ -1,4 +1,4 @@
-### Welcome
+### Welcome !!!
 
 <table>
   <tr>
@@ -12,16 +12,7 @@
  
 
 ### 🌱 My Skillsets 
-
-</summary>
-
-
-
-<details>
-
-[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
-
-</detail>
+<summary>
 
 ### Languages That I Currently Use
 
@@ -38,16 +29,13 @@
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
+
 ### Planned Languages to Learn
 
 [![elixir](https://img.shields.io/badge/-Elixir-141414?style=flat&logo=elixir)](https://elixir-lang.org/)
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 ![Clojure](https://img.shields.io/badge/-Clojure-141414?style=flat&logo=clojure)
-
-### Linux Distros that I know and use
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
-[![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 
 ### Tools and Tech that I use
 
@@ -64,9 +52,11 @@
 
 ---
 
-</details>
 
-<summary>
+</summary>
+
+
+
 
 ## 👯 I’m looking to collaborate on ...
 <summary>
