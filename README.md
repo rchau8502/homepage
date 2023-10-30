@@ -4,24 +4,24 @@
   <tr>
     <td valign="center">
       <p>
-        <h3>hi </h3>
-        🚀 &nbsp; My site：<a > </a>
+        <h3>Hi! I am Hau6 and this is my Portfolio! </h3>
+        🚀 &nbsp; My site：<a href:"portfolio.hau6.top">Website </a>
         <br/>
-        🌱 &nbsp; A：<a ></a>
+        💞️ &nbsp; My discord: RickC02
         <br/>
-        🔭 &nbsp; S：<a ></a>
-        <br/>
-        💞️ &nbsp; My discord: 
-        <br/>
-    
-## 🌱 My Skillsets 
-</summary>
-### Preferred programming languages
-<details>
+ 
 
+### 🌱 My Skillsets 
+
+</summary>
+
+
+
+<details>
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 
+</detail>
 
 ### Languages That I Currently Use
 
