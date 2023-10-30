@@ -9,7 +9,7 @@
         <br/>
         🌱 &nbsp; A：<a ></a>
         <br/>
-        🔭 &nbsp; S：<a href="https://status.weikuwu.me">status.weikuwu.me</a>
+        🔭 &nbsp; S：<a ></a>
         <br/>
         💞️ &nbsp; My discord: 
         <br/>
