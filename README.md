@@ -13,20 +13,7 @@
         <br/>
         💞️ &nbsp; My discord: 
         <br/>
-        <br/>
-   
-        <br/>
-    </td>
-    <td width=350>
-     
-    </td>
-  </tr>
-</table>
-
-</details>
-<details>
-<summary>
-
+    
 ## 🌱 My Skillsets 
 </summary>
 
