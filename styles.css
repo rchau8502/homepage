@@ -1,7 +1,6 @@
 h1, h2, p, ul, li, img {
   text-align: center;
-  font-family: Impact;
-  max-width: 800 px;
+  font-family: sans-serif;
   
 }
 
@@ -10,6 +9,6 @@ body{
   text-weight: 500 px;
 }
 
-h1, h2{
+h1, h2, p, ul{
   color: white;
 }
