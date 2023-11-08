@@ -2,7 +2,7 @@ h1, h2, p, ul, li, img, a {
   text-align: center;
   font-family: sans-serif;
   color: white;
-  display: inline-block;
+  list-position-style: inside;
 }
 
 body{
