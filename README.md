@@ -59,7 +59,7 @@
 
 ## 👯 I’m looking to collaborate on ...
 <summary>
-<details>
+
 Art, Music, a more...
-</details>
+
 </summary>
