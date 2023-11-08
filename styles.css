@@ -1,8 +1,7 @@
 h1, h2, p, ul, li, img {
   text-align: center;
-  text-color: white;
+  color: white;
   font-family: Impact;
-  padding: 20 px;
   max-width: 800 px;
   
 }
