@@ -11,6 +11,9 @@ ul, li{
   list-style-position: inside;
 }
 
+a:visited{
+  color:orange;
+}
 
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
