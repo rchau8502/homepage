@@ -5,10 +5,11 @@
     <td valign="center">
       Hi! I am Hau6 and this is my Portfolio!
         <br/>
-        🚀 &nbsp; My site：<a href="https://hau6.top">Hau6's website</a>
+        🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Hau6's website</a>
         <br/>
         💞️ &nbsp; My discord: RickC02
         <br/>
+
  
 <summary>
   
