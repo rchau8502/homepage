@@ -10,10 +10,9 @@
         💞️ &nbsp; My discord: RickC02
         <br/>
  
-
-### 🌱 My Skillsets 
 <summary>
-
+### 🌱 My Skillsets 
+  
 ### Languages That I Currently Use
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
@@ -56,9 +55,9 @@
 
 
 
-
-## 👯 I’m looking to collaborate on ...
 <summary>
+## 👯 I’m looking to collaborate on ...
+
 
 Art, Music, a more...
 
