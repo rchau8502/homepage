@@ -1,9 +1,16 @@
-h1, h2, p, ul, li, img, a {
+h1, h2, p, img, a {
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+ul, li{
   text-align: center;
   font-family: sans-serif;
   color: white;
   list-style-position: inside;
 }
+
 
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
