@@ -3,9 +3,8 @@
 <table>
   <tr>
     <td valign="center">
-      <p>
-        <h3>Hi! I am Hau6 and this is my Portfolio! </h3>
-        🚀 &nbsp; My site：[Hau6's Portfolio](https://hau6.top)
+      Hi! I am Hau6 and this is my Portfolio!
+        🚀 &nbsp; My site：[Hau6's Portfolio](https://hau6.top).
         <br/>
         💞️ &nbsp; My discord: RickC02
         <br/>
