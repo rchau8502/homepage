@@ -5,7 +5,7 @@
     <td valign="center">
       <p>
         <h3>Hi! I am Hau6 and this is my Portfolio! </h3>
-        🚀 &nbsp; My site：<a href="https://hau6.top/" target="_blank"> Hau6's Portfolio </a>
+        🚀 &nbsp; My site：<a target="_blank" href="https://hau6.top/"> Hau6's Portfolio </a>
         <br/>
         💞️ &nbsp; My discord: RickC02
         <br/>
