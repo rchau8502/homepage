@@ -9,4 +9,10 @@ body{
   text-weight: 500 px;
 }
 
+.image{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50 %;
+}
 
