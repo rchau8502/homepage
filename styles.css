@@ -10,22 +10,15 @@ img, a {
   padding: auto;
 }
 
+/* list */ 
 ul, li{
   text-align: center;
   font-family: sans-serif;
   color: white;
-
 }
 
 a :hover{
   color: orange;
-}
-
-#id {
-  display: icon;
-  margin-right: auto;
-  margin-left: auto;
-  width: 25 px;
 }
 
 figure{
