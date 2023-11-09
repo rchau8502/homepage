@@ -11,13 +11,10 @@ ul, li{
   list-style-position: inside;
 }
 
-a:hover{
-  color:orange;
+a:hover, :visited{
+  color:orange; color:grey; 
 }
 
-a:visited{
- color:blue;
-}
 
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
