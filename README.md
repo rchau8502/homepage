@@ -24,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
-![PowerShell](https://img.shields.io/badge/-PowerShell-141414?style=flat&logo=#5391FE))
+![PowerShell](https://img.shields.io/badge/-PowerShell-141414?style=flat&logo=PowerShell)
 
 ### Languages that I am learning or have started
 
