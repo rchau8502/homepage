@@ -1,7 +1,7 @@
 h1, h2, p, figcaption, tittle{
   text-align: center;
   font-family: sans-serif;
-  color: F1EB90;
+  color: LightBlue;
 }
 
 img, a {
@@ -15,12 +15,12 @@ img, a {
 ul, li{
   text-align: center;
   font-family: sans-serif;
-  color: F1EB90;
+  color: LightBlue;
   list-style-position: inside;
 }
 
 a :hover{
-  color: orange;
+  color: 255, 145, 48;
 }
 
 body{
