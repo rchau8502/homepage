@@ -11,8 +11,8 @@ ul, li{
   list-style-position: inside;
 }
 
-a:hover{
-  color:orange;
+a :hover{
+  color: orange;
 }
 
 
