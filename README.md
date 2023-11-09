@@ -64,8 +64,6 @@
   
 ## 👯 I’m looking to collaborate on ...
 
-<br/>
-
 Art, Music, and more...
 
 </summary>
