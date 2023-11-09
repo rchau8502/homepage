@@ -10,6 +10,10 @@ img, a {
   padding: auto;
 }
 
+#icon{
+  width: 75 %;
+}
+
 /* list */ 
 ul, li{
   text-align: center;
