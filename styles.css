@@ -21,6 +21,12 @@ a :hover{
   color: orange;
 }
 
+#id {
+  display: icon;
+  margin-right: auto;
+  margin-left: auto;
+  width: 25 px;
+}
 
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
