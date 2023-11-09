@@ -11,8 +11,12 @@ ul, li{
   list-style-position: inside;
 }
 
-a:visited{
+a:hover{
   color:orange;
+}
+
+a:visited{
+ color:blue;
 }
 
 body{
