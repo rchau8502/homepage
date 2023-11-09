@@ -1,3 +1,8 @@
+@font-face {
+  font-family:"Ankh Sanctuar";
+  src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
+}
+
 h1, h2, p, figcaption, tittle{
   text-align: center;
   font-family: sans-serif;
