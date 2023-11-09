@@ -1,7 +1,7 @@
 h1, h2, p, figcaption{
   text-align: center;
   font-family: sans-serif;
-  color: white;
+  color: F1EB90;
 }
 
 img, a {
@@ -15,7 +15,7 @@ img, a {
 ul, li{
   text-align: center;
   font-family: sans-serif;
-  color: white;
+  color: F1EB90;
   list-style-position: inside;
 }
 
