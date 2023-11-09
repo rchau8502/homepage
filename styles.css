@@ -16,6 +16,7 @@ ul, li{
   text-align: center;
   font-family: sans-serif;
   color: white;
+  list-style-position: inside
 }
 
 a :hover{
@@ -24,8 +25,7 @@ a :hover{
 
 figure{
   display: inline-block;
-  padding-left: 33 %;
-  padding-right: 33 %;
+  position: center;
 }
 
 body{
