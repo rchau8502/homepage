@@ -16,7 +16,7 @@ ul, li{
   text-align: center;
   font-family: sans-serif;
   color: white;
-  list-style-position: inside
+  list-style-position: inside;
 }
 
 a :hover{
