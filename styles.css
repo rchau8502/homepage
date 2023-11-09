@@ -29,6 +29,10 @@ a :hover{
   list-style-position: inside;
 }
 
+figure{
+  display: inline-block;
+}
+
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
   text-weight: 500 px;
