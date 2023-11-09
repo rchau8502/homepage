@@ -11,8 +11,8 @@ ul, li{
   list-style-position: inside;
 }
 
-a:hover, :visited{
-  color:orange; color:grey; 
+a:hover{
+  color:orange;
 }
 
 
