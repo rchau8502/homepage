@@ -5,7 +5,7 @@
 
 h1, h2, p, figcaption, tittle{
   text-align: center;
-  font-family: sans-serif;
+  font-family:"Ankh Sanctuar";
   color: LightBlue;
 }
 
@@ -19,9 +19,9 @@ img, a {
 /* list */ 
 ul, li{
   text-align: center;
-  font-family: sans-serif;
   color: LightBlue;
   list-style-position: inside;
+  font-family:"Ankh Sanctuar";
 }
 
 a :hover{
