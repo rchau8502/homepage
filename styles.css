@@ -23,6 +23,8 @@ a :hover{
 
 figure{
   display: inline-block;
+  margin-left: 33 %;
+  margin-right: 33 %;
 }
 
 body{
