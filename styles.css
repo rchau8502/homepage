@@ -3,7 +3,7 @@
   src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
 }
 
-div, iframe {
+div {
     width: 640px;
     height: 360px;
     margin: 0 auto;
@@ -11,7 +11,7 @@ div, iframe {
     text-align: center
 }
 
-iframe {
+iframe, .video {
     display: block;
     border-style:none;
 }
