@@ -22,10 +22,6 @@ h1, h2, p, figcaption, tittle{
   color: LightBlue;
 }
 
-#catphoto{
-   width: 64px;
-  height: 36px;
-}
 
 img, a {
   color: white;
@@ -56,6 +52,7 @@ body{
   display: block;
   margin-right: auto;
   margin-left: auto;
-
+  text-weight: 150 px;
+  text-height: 150 px; 
 }
 
