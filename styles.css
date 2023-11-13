@@ -39,7 +39,15 @@ ul, li{
 }
 
 a :hover{
-  color: rgb(235, 84, 6);
+  color: green;
+}
+
+a :visited{
+  color: yellow
+}
+
+a :active{
+  color: red
 }
 
 body{
