@@ -16,7 +16,7 @@ iframe, .video {
     border-style:none;
 }
 
-h1, h2, p, figcaption, tittle{
+h1, h2, p, tittle{
   text-align: center;
   font-family:"Ankh Sanctuar";
   color: LightBlue;
@@ -40,10 +40,6 @@ ul, li{
 
 a :hover{
   color: green;
-}
-
-a :visited{
-  color: yellow
 }
 
 a :active{
