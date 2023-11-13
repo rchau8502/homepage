@@ -26,6 +26,8 @@ img, a {
   color: white;
   margin: auto;
   padding: auto;
+  width: 640px;
+  height: 360px;
 }
 
 
@@ -43,7 +45,7 @@ a :hover{
 
 body{
   background-image: url(https://i.imgur.com/CuTxN19.jpg);
-  text-weight: 500 px;
+  text-weight: 1000 px;
 }
 
 .image{
