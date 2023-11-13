@@ -8,6 +8,7 @@ div, iframe {
     height: 50px;
     margin: 0 auto;
     background-color: #777;
+    text-align: center
 }
 
 iframe {
