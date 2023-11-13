@@ -57,13 +57,3 @@
 
 
 </summary>
-
-
-
-<summary>
-  
-## 👯 I’m looking to collaborate on ...
-
-Art, Music, and more...
-
-</summary>
