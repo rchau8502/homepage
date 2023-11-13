@@ -4,8 +4,8 @@
 }
 
 div, iframe {
-    width: 100px;
-    height: 50px;
+    width: 640px;
+    height: 360px;
     margin: 0 auto;
     background-color: #777;
     text-align: center
