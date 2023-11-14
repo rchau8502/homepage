@@ -29,6 +29,9 @@ img, a {
   padding: auto;
 }
 
+#history_Pic{
+text-align: left;
+}
 
 /* list */ 
 ul, li{
