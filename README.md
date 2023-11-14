@@ -1,10 +1,5 @@
 ### Hau6's Website
 
-<summary>
-
-![LOGO](https://i.imgur.com/5x7nmyJs.png)
-  
-</summary>
 
 
 <table>
@@ -16,7 +11,14 @@
         💞️ &nbsp; My discord: RickC02
         <br/>
 
+<summary>
+
+![LOGO](https://i.imgur.com/5x7nmyJs.png)
   
+</summary>
+
+<br/>
+
 <summary>
 
 ### MY LOGO
