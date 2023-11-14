@@ -4,14 +4,18 @@
   <tr>
     <td valign="center">
       Hi! I am Hau6 and this is my Portfolio!
-   
         <br/>
         🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Hau6's website</a>
         <br/>
         💞️ &nbsp; My discord: RickC02
         <br/>
+
+      
 <summary>
-[![My Logo](https://i.imgur.com/bRYMxvy.png)]
+
+### MY LOGO
+  
+[](https://i.imgur.com/bRYMxvy.png)
 </summary>
  
 <summary>
