@@ -18,9 +18,6 @@
 ![LOGO](https://i.imgur.com/5x7nmyJb.png)
   
 </summary>
-
-<br/>
-
 <summary>
 
 ### MY LOGO
