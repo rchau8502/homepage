@@ -1,7 +1,5 @@
 ### Hau6's Website
 
-
-
 <table>
   <tr>
     <td valign="center">
