@@ -22,7 +22,7 @@
 
 ### MY LOGO
   
-![LOGO](https://i.imgur.com/bRYMxvys.png)
+![LOGO](https://i.imgur.com/bRYMxvyb.png)
 
 </summary>
  
