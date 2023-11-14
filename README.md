@@ -13,7 +13,9 @@
 
 <summary>
 
-![LOGO](https://i.imgur.com/5x7nmyJs.png)
+### History
+
+![LOGO](https://i.imgur.com/5x7nmyJb.png)
   
 </summary>
 
