@@ -15,7 +15,7 @@
 
 ### MY LOGO
   
-[Imgur](https://i.imgur.com/bRYMxvys.png)
+[![LOGO](https://i.imgur.com/bRYMxvys.png)]
 
 </summary>
  
