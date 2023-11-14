@@ -15,7 +15,7 @@
 
 <summary>
 
-![LOGO](https://i.imgur.com/5x7nmyJb.png)
+![LOGO](https://i.imgur.com/KE3hog6b.png)
   
 </summary>
 <summary>
