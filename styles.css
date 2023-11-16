@@ -3,7 +3,7 @@
   src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
 }
 tittle{
-    background-color: cyan;
+    background-color: rgb(255,127,0);
 }
 div, iframe {
     width: 640px;
