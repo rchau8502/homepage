@@ -1,7 +1,7 @@
-@font-face {
-  font-family:"Ankh Sanctuar";
-  src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
-}
+
+font-family:"Monospace";
+
+
 
 .title{
     background-color: rgb(255,127,0);
