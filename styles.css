@@ -3,14 +3,14 @@
   src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
 }
 
-title{
+.title{
     background-color: rgb(255,127,0);
     display: block;
     weight: 50 px;
     height: 200 px;
 }
 
-div, iframe {
+.video, iframe {
     width: 640px;
     height: 360px;
     margin: 0 auto;
