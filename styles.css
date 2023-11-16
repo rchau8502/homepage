@@ -2,9 +2,11 @@
   font-family:"Ankh Sanctuar";
   src: url("AnkhSanctuary-nROx4.ttf") format("truetype");
 }
-tittle{
+
+title{
     background-color: rgb(255,127,0);
 }
+
 div, iframe {
     width: 640px;
     height: 360px;
