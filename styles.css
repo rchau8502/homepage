@@ -5,6 +5,9 @@
 
 title{
     background-color: rgb(255,127,0);
+    display: block;
+    weight: 50 px;
+    height: 200 px;
 }
 
 div, iframe {
