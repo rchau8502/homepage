@@ -66,7 +66,7 @@ body{
   display: block;
   margin-right: auto;
   margin-left: auto;
-  text-weight: 100 px;
-  text-height: 100 px; 
+  weight: 100 px;
+  height: 100 px; 
 }
 
