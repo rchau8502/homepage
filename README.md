@@ -8,6 +8,8 @@
         <br/>
         💞️ &nbsp; My discord: RickC02
         <br/>
+        My First and ever game: Maverick's Rhapsody
+        <br/>
 
 <br/>
 
