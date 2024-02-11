@@ -10,8 +10,7 @@
         <br/>
         My First and ever game: Maverick's Rhapsody
         <br/>
-        ![](https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif)
-        <br/>
+    
 
 <br/>
 
@@ -27,7 +26,7 @@
 ### MY LOGO
   
 ![LOGO](https://i.imgur.com/bRYMxvyb.png)
-
+![](https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif)
 </summary>
  
 <summary>
