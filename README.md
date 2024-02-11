@@ -9,6 +9,7 @@
         💞️ &nbsp; My discord: RickC02
         <br/>
         My First and ever game: Maverick's Rhapsody
+        <br/>
         ![]https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif
         <br/>
 
