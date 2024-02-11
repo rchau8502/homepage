@@ -26,7 +26,8 @@
 ### MY LOGO
   
 ![LOGO](https://i.imgur.com/bRYMxvyb.png)
-![](https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif)
+
+![LOGO](https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif)
 </summary>
  
 <summary>
