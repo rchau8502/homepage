@@ -16,11 +16,11 @@
 
 <summary>
 
-### MY LOGO
+### I'm also learning 2D Animations 
 
 ![LOGO](https://github.com/RCHau6/Website/blob/main/Ghost_Motion_Final_1.gif)
   
-![LOGO](https://i.imgur.com/bRYMxvyb.png)
+
 
 </summary>
  
