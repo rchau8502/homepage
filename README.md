@@ -4,7 +4,7 @@
   <tr>
     <td valign="center">
         <br/>
-        🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Hau6's website</a>
+        🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Rich's website</a>
         <br/>
         💞️ &nbsp; My discord: RichC02
         <br/>
