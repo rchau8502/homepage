@@ -1,4 +1,4 @@
-### Hau6's Website
+### My Homepage
 
 <table>
   <tr>
@@ -6,10 +6,9 @@
         <br/>
         🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Hau6's website</a>
         <br/>
-        💞️ &nbsp; My discord: RickC02
+        💞️ &nbsp; My discord: 
         <br/>
-        My First and ever game: Maverick's Rhapsody
-        <br/>
+   
     
 
 <br/>
