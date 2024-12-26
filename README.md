@@ -6,7 +6,7 @@
         <br/>
         🚀 &nbsp; My site：<a href="https://hau6.top" target="_blank">Hau6's website</a>
         <br/>
-        💞️ &nbsp; My discord: 
+        💞️ &nbsp; My discord: RichC02
         <br/>
    
     
