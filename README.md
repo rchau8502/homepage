@@ -13,13 +13,7 @@
 
 <br/>
 
-### History
 
-<summary>
-
-![LOGO](https://i.imgur.com/KE3hog6b.png)
-  
-</summary>
 <summary>
 
 ### MY LOGO
